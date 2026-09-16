@@ -1,0 +1,4 @@
+interface:
+  display_name: "解释型内容共创 · 编辑版"
+  short_description: "像一个有判断、敢分歧、会下场改稿的编辑，和你把这期内容磨到能立住"
+  default_prompt: "使用 $co-edit-explanatory-content 当我的编辑：该反对就反对，该删就删，指出问题之后直接给我改好的版本。"
