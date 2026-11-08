@@ -1,4 +1,4 @@
 interface:
-  display_name: "解释型内容共创 · 编辑版"
-  short_description: "像一个有判断、敢分歧、会下场改稿的编辑，和你把这期内容磨到能立住"
-  default_prompt: "使用 $co-edit-explanatory-content 当我的编辑：该反对就反对，该删就删，指出问题之后直接给我改好的版本。"
+  display_name: "解释型视频共创 · 路线与节拍"
+  short_description: "一起研定路线、核查材料、打磨节拍，建立 Obsidian 工作台并逐拍试写修改"
+  default_prompt: "使用 $co-edit-explanatory-content 和我共同创作这期视频：从当前阶段接续，研定推进路线、核查承重材料、制作 beatsheet，在 Obsidian 中逐拍试写与修改。"
